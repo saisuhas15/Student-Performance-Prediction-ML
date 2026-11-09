@@ -153,3 +153,9 @@ GitHub: [saisuhas15](https://github.com/saisuhas15/Student-Performance-Predictio
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
+
+## 🌐 Live Demo
+
+🚀 Try the application here:
+
+[Student Performance Prediction – Live App](https://student-performance-prediction-ml-cbftglvrpiwt7bttmmejw7.streamlit.app/)
